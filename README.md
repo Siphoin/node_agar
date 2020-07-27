@@ -1,3 +1,3 @@
 # node_agar
  
-basic node js example for Unity.
+basic node js multiplayer example for Unity.
